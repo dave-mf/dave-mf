@@ -1,5 +1,5 @@
-- Hi, I’m @dave-mf
-- I’m interested in Frontend Development
+- Hi, I’m @dave-mf known as Dave Maulana Ferros
+- I’m interested in Frontend Development and UI Design
 - I’m currently learning Dart (Flutter)
 - How to reach me : davemaulanaferros@gmail.com
 
